@@ -95,6 +95,3 @@ request.get('https://maps.googleapis.com/maps/api/geocode/json?address=Montreal'
     });
   })
 
-
-
-//
